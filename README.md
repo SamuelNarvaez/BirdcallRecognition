@@ -11,7 +11,7 @@ linguistic code-switching (CS), also known as code-mixing, is common among multi
 * Using Twitter Developer API to pull tweets that engage in translanguaging and code-switching with English language pairs, maybe with a primary focus on the English/Spanish, English/Portuguese language pairs, as I have the most personal experience code-switching in those languages. 
 * Experiment with ELMo and BERT for Sequence Tagging, Labling the parts of the tweets that are associated with named languages. 
 
-Something to the effect of :
+Something to the effect of (Although hopefully more beautiful than):
 
 
 ![](media/sentimix_table.png)

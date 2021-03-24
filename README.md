@@ -12,7 +12,7 @@ linguistic code-switching (CS), also known as code-mixing, is common among multi
 * Experiment with ELMo and BERT for Sequence Tagging, Labling the parts of the tweets that are associated with named languages. 
 
 Something to the effect of :
-![media/sentimix_table.png]
+![](media/sentimix_table.png)
 * Build or find a sufficient labled set to train/test. 
 
 ### Citations:

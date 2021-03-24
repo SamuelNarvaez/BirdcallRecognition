@@ -36,7 +36,7 @@ Something to the effect of (Although hopefully more beautiful than):
 ```
 * [EN-ES-CS: An English-Spanish Code-Switching Twitter Corpus for Multilingual Sentiment Analysis](https://www.aclweb.org/anthology/L16-1655.pdf)
 * [Functions of Code-Switching in Tweets: An Annotation Scheme and Some Initial Experiments](https://www.aclweb.org/anthology/L16-1260.pdf)
-* [Generalized Word Shift Graphs](https://www.networkscienceinstitute.org/publications/generalized-word-shift-graphs-a-method-for-visualizing-and-explaining-pairwise-comparisons-between-texts-2)
+* [Generalized Word Shift Graphs](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00260-3)
 * [Code-Switching Papers](https://github.com/gentaiscool/code-switching-papers)
 ## Proposal 2:
 ### Data:

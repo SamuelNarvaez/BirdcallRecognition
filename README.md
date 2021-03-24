@@ -29,9 +29,9 @@ linguistic code-switching (CS), also known as code-mixing, is common among multi
     publisher = "Association for Computational Linguistics"
 }
 ```
-*[EN-ES-CS: An English-Spanish Code-Switching Twitter Corpus for Multilingual Sentiment Analysis](https://www.aclweb.org/anthology/L16-1655.pdf)
-*[Functions of Code-Switching in Tweets: An Annotation Scheme and Some Initial Experiments](https://www.aclweb.org/anthology/L16-1260.pdf)
-*[Code-Switching Papers](https://github.com/gentaiscool/code-switching-papers)
+* [EN-ES-CS: An English-Spanish Code-Switching Twitter Corpus for Multilingual Sentiment Analysis](https://www.aclweb.org/anthology/L16-1655.pdf)
+* [Functions of Code-Switching in Tweets: An Annotation Scheme and Some Initial Experiments](https://www.aclweb.org/anthology/L16-1260.pdf)
+* [Code-Switching Papers](https://github.com/gentaiscool/code-switching-papers)
 ## Proposal 2:
 ### Data:
 ### Abstract:

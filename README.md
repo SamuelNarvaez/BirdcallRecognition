@@ -37,16 +37,18 @@ Something to the effect of (Although hopefully more beautiful than):
 * [EN-ES-CS: An English-Spanish Code-Switching Twitter Corpus for Multilingual Sentiment Analysis](https://www.aclweb.org/anthology/L16-1655.pdf)
 * [Functions of Code-Switching in Tweets: An Annotation Scheme and Some Initial Experiments](https://www.aclweb.org/anthology/L16-1260.pdf)
 * [Code-Switching Papers](https://github.com/gentaiscool/code-switching-papers)
-## Proposal 2: Squeezr, a Dashbord for community organizing
-### Data: 
-Stock Market API, something like [AlphaVantage](https://www.alphavantage.co)
-### Abstract:
-In 2019, the strip-mall fixture GameStop lost almost $500 million. In 2020, a pandemic forcibly shut down many of its stores and gutted its revenue. As of January 10, 2021 nine brokerages had set the one-year target stock price for GameStop at about $10. But that’s not where it would stay. It climbed in price because a subreddit, r/WallStreetBets, engineered a short squeeze. The squeeze had hedge funds like Melvin Capital and Citron Research running for the hills and declaring banktrupcy. [Significance](https://www.reddit.com/r/wallstreetbets/comments/l7bpf5/30_seconds_from_triggering_market_nuclear_bomb/)
-### Goals:
-* Find squeezes happening now
-* Find stocks with the largest short positions
-* Present the stocks with the most short vulnerability in a dashboard that is clear and accessible to facilitate community organizing on the scale of r/WallStreetBets with GME to engineer more short squeezes and take down more hedge funds.
-## Proposal 3:
+## Proposal 2:
 ### Data:
 ### Abstract:
 ### Goals:
+
+## Proposal 3: Squeezr, a Dashbord for community organizing
+### Data: 
+Stock Market API, something like [AlphaVantage](https://www.alphavantage.co)
+### Abstract:
+In 2019, the strip-mall fixture GameStop lost almost $500 million. In 2020, a pandemic forcibly shut down many of its stores and gutted its revenue. As of January 10, 2021 nine brokerages had set the one-year target stock price for GameStop at about $10. But that’s not where it would stay. It climbed in price to highs around $347 because a subreddit, r/WallStreetBets, engineered a short squeeze. The squeeze had hedge funds like Melvin Capital and Citron Research running for the hills and declaring banktrupcy. This episode was a [significant](https://www.reddit.com/r/wallstreetbets/comments/l7bpf5/30_seconds_from_triggering_market_nuclear_bomb/) demonstration of the power of decentralized organizing in the financial space. 
+### Goals:
+* Find squeezes happening now
+* Find stocks with the largest short positions
+* Use Plotly Dash to develop the dashboard
+* Present the stocks with the most short vulnerability in a dashboard that is clear and accessible to facilitate community organizing on the scale of r/WallStreetBets with GME to engineer more short squeezes and take down more hedge funds.

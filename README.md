@@ -14,7 +14,7 @@ linguistic code-switching (CS) (also known as code-mixing and included in transl
 * Experiment with ELMo and BERT for 
 
 ### Citations:
-'''
+```
 @inproceedings{choudhury-etal-2019-processing,
     title = "Processing and Understanding Mixed Language Data",
     author = "Choudhury, Monojit  and
@@ -28,7 +28,7 @@ linguistic code-switching (CS) (also known as code-mixing and included in transl
     address = "Hong Kong, China",
     publisher = "Association for Computational Linguistics"
 }
-'''
+```
 ## Proposal 2:
 ### Data:
 ### Abstract:

@@ -4,16 +4,16 @@
 ### Data: 
 Getting Twitter Data in Python Using Tweepy and API Access
 ### Abstract:
-[Resources on Code Switching](https://github.com/gentaiscool/code-switching-papers)
 
-
-linguistic code-switching (CS) (also known as code-mixing and included in translanguaging) is a common phenomenon among multilingual speakers. The lack of annotated data combined with the high diversity of languages in which this phenomenon can occur makes it difficult to strive for progress and generality in code-switching related NLP tasks. Even though code-switching is largely captured in social media platforms, it is still expensive to annotate a sufficient amount of data for many tasks and languages. Additionally, not all the languages have the same incidence and predominance, making annotations impractical for every combination of languages. Nevertheless, code-switching often occurs in language pairs that include English. I want to explore levaraging English pre-trained models like ELMo or BERT and tailoring them to perform well in code-switching settings. Code-mixing is extremely prevalent in all multilingual societies. Current studies have shown that as much as 20% of user generated content from some geographies, like South Asia, parts of Europe, and Singapore, are code-mixed.
+linguistic code-switching (CS), also known as code-mixing, is a common phenomenon among multilingual speakers. The lack of annotated data combined with the high diversity of languages in which this phenomenon can occur makes it difficult to strive for progress and generality in code-switching related NLP tasks. Even though code-switching is largely captured in social media platforms, it is still expensive to annotate a sufficient amount of data for many tasks and languages. Additionally, not all the languages have the same incidence and predominance, making annotations impractical for every combination of languages. Nevertheless, code-switching often occurs in language pairs that include English. I want to explore levaraging English pre-trained models like ELMo or BERT and tailoring them to perform well in code-switching settings. 
 
 ### Goals:
-* Using Twitter Developer API to pull tweets that engage in translanguaging and code-switching,
-* Experiment with ELMo and BERT for 
+* Using Twitter Developer API to pull tweets that engage in translanguaging and code-switching with English language pairs, maybe with a primary focus on the English/Spanish, English/Portuguese language pairs, as I have the most personal experience code-switching in those languages. 
+* Experiment with ELMo and BERT for Sequence Tagging, Labling the parts of the tweets that are associated with named languages.
+* Build or find a sufficient labled set to train/test. 
 
 ### Citations:
+[Processing and Understanding Mixed Language Data](https://genius1237.github.io/emnlp19_tut/)
 ```
 @inproceedings{choudhury-etal-2019-processing,
     title = "Processing and Understanding Mixed Language Data",
@@ -29,6 +29,7 @@ linguistic code-switching (CS) (also known as code-mixing and included in transl
     publisher = "Association for Computational Linguistics"
 }
 ```
+[Code-Switching Papers](https://github.com/gentaiscool/code-switching-papers)
 ## Proposal 2:
 ### Data:
 ### Abstract:

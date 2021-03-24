@@ -19,7 +19,7 @@ Something to the effect of :
 
 ### Citations:
 * [Processing and Understanding Mixed Language Data](https://genius1237.github.io/emnlp19_tut/)
-```tex
+```latex
 @inproceedings{choudhury-etal-2019-processing,
     title = "Processing and Understanding Mixed Language Data",
     author = "Choudhury, Monojit  and

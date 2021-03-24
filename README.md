@@ -12,12 +12,14 @@ linguistic code-switching (CS), also known as code-mixing, is common among multi
 * Experiment with ELMo and BERT for Sequence Tagging, Labling the parts of the tweets that are associated with named languages. 
 
 Something to the effect of :
+
+
 ![](media/sentimix_table.png)
 * Build or find a sufficient labled set to train/test. 
 
 ### Citations:
 * [Processing and Understanding Mixed Language Data](https://genius1237.github.io/emnlp19_tut/)
-```
+```python
 @inproceedings{choudhury-etal-2019-processing,
     title = "Processing and Understanding Mixed Language Data",
     author = "Choudhury, Monojit  and

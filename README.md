@@ -39,7 +39,18 @@ Something to the effect of (Although hopefully more beautiful than):
 * [Generalized Word Shift Graphs](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00260-3)
 * [Code-Switching Papers](https://github.com/gentaiscool/code-switching-papers)
 
-## Proposal 2: Predicting Track popularity from Spotify's Audio Features and Audio Analysis
+## Proposal 2: Squeezr, a Dashboard for community organizing
+### Data: 
+Stock Market API, something like [AlphaVantage](https://www.alphavantage.co)
+### Abstract:
+In 2019, the strip-mall fixture GameStop lost almost $500 million. In 2020, a pandemic forcibly shut down many of its stores and gutted its revenue. As of January 10, 2021 nine brokerages had set the one-year target stock price for GameStop at about $10. But that’s not where it would stay. It climbed in price to highs around $347 because a subreddit, r/WallStreetBets, engineered a short squeeze. The squeeze had hedge funds like Melvin Capital and Citron Research running for the hills and declaring banktrupcy after sustaining huge losses. This episode was a [significant](https://www.reddit.com/r/wallstreetbets/comments/l7bpf5/30_seconds_from_triggering_market_nuclear_bomb/) demonstration of the power of decentralized organizing in the financial space. 
+### Goals:
+* Find squeezes happening now
+* Find stocks with the largest short positions
+* Use Plotly Dash to develop the dashboard
+* Present the stocks with the most short vulnerability in a dashboard that is clear and accessible to facilitate community organizing on the scale of r/WallStreetBets with GME to engineer more short squeezes and take down more hedge funds.
+* 
+## Proposal 3: Predicting Track popularity from Spotify's Audio Features and Audio Analysis
 ### Data:
 [Spotify Track API](https://developer.spotify.com/documentation/web-api/reference/#category-tracks)
 Get Audio Analysis for a Track, Get Audio Analysis for a Track
@@ -50,13 +61,3 @@ Many factors go into the popularity of a newly released song, but are the featur
 * Explore various supervised machine learning regression models on the data
 * Train a neural network for the regression
 
-## Proposal 3: Squeezr, a Dashboard for community organizing
-### Data: 
-Stock Market API, something like [AlphaVantage](https://www.alphavantage.co)
-### Abstract:
-In 2019, the strip-mall fixture GameStop lost almost $500 million. In 2020, a pandemic forcibly shut down many of its stores and gutted its revenue. As of January 10, 2021 nine brokerages had set the one-year target stock price for GameStop at about $10. But that’s not where it would stay. It climbed in price to highs around $347 because a subreddit, r/WallStreetBets, engineered a short squeeze. The squeeze had hedge funds like Melvin Capital and Citron Research running for the hills and declaring banktrupcy after sustaining huge losses. This episode was a [significant](https://www.reddit.com/r/wallstreetbets/comments/l7bpf5/30_seconds_from_triggering_market_nuclear_bomb/) demonstration of the power of decentralized organizing in the financial space. 
-### Goals:
-* Find squeezes happening now
-* Find stocks with the largest short positions
-* Use Plotly Dash to develop the dashboard
-* Present the stocks with the most short vulnerability in a dashboard that is clear and accessible to facilitate community organizing on the scale of r/WallStreetBets with GME to engineer more short squeezes and take down more hedge funds.

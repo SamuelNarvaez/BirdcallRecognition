@@ -41,7 +41,7 @@ Something to the effect of (Although hopefully more beautiful than):
 ### Data: 
 Stock Market API, something like [AlphaVantage](https://www.alphavantage.co)
 ### Abstract:
-In 2019, the strip-mall fixture GameStop lost almost $500 million. In 2020, a pandemic forcibly shut down many of its stores and gutted its revenue. As of January 10, 2021 nine brokerages had set the one-year target stock price for GameStop at about $10. But that’s not where it would stay. It climbed in price because a subreddit, r/WallStreetBets, engineered a short squeeze. One hedge fund, Melvin Capital Management, has lost at least $2 billion
+In 2019, the strip-mall fixture GameStop lost almost $500 million. In 2020, a pandemic forcibly shut down many of its stores and gutted its revenue. As of January 10, 2021 nine brokerages had set the one-year target stock price for GameStop at about $10. But that’s not where it would stay. It climbed in price because a subreddit, r/WallStreetBets, engineered a short squeeze. The squeeze had hedge funds like Melvin Capital and Citron Research running for the hills and declaring banktrupcy. [Significance](https://www.reddit.com/r/wallstreetbets/comments/l7bpf5/30_seconds_from_triggering_market_nuclear_bomb/)
 ### Goals:
 * Find squeezes happening now
 * Find stocks with the largest short positions

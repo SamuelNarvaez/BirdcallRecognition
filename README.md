@@ -42,7 +42,7 @@ Something to the effect of (Although hopefully more beautiful than):
 ### Abstract:
 ### Goals:
 
-## Proposal 3: Squeezr, a Dashbord for community organizing
+## Proposal 3: Squeezr, a Dashboard for community organizing
 ### Data: 
 Stock Market API, something like [AlphaVantage](https://www.alphavantage.co)
 ### Abstract:

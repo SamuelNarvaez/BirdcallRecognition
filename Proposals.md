@@ -38,6 +38,7 @@ Something to the effect of (Although hopefully more beautiful than):
 * [Functions of Code-Switching in Tweets: An Annotation Scheme and Some Initial Experiments](https://www.aclweb.org/anthology/L16-1260.pdf)
 * [Generalized Word Shift Graphs](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-021-00260-3)
 * [Code-Switching Papers](https://github.com/gentaiscool/code-switching-papers)
+* [source](https://ritual.uh.edu/code-switching/code-switching-resources/)
 
 ## Proposal 2: Squeezr, a Dashboard for community organizing
 ### Data: 
